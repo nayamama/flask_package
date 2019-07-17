@@ -1,0 +1,8 @@
+app.py
+/build
+/dist
+/flaskr.egg-info
+/instance
+/p3-flask
+/__pycache__
+*.pyc
